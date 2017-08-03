@@ -1,3 +1,7 @@
 {
-    "navigationBarTitleText": "查看启动日志12312"
+      "navigationBarBackgroundColor": "#ffffff",
+      "navigationBarTextStyle": "black",
+      "navigationBarTitleText": "yiqiGo",
+      "backgroundColor": "#eeeeee",
+      "backgroundTextStyle": "light"
 }

@@ -25,5 +25,6 @@ App({
 
   globalData: {
     userInfo: null
-  }
+  },
+  globalName: ["Spursyy"]
 })
